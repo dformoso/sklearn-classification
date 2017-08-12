@@ -59,8 +59,11 @@ docker ps -a
 ## Loading the Walkthrough Notebook
 It's now time to download the Notebook...!
 
-https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
-...go back to http://localhost:8888, load your Notebook into Jupyter and run it. That's it!
+Download it from this link:
+- https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
+
+Go back to:
+- http://localhost:8888, load your Notebook into Jupyter and run it. That's it!
 
 
 ## Troubleshooting Docker
