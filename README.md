@@ -4,16 +4,26 @@ Data Science Notebook on a Classification Task
 ## Objective
 In the Jupyter Notepad included in this page, we will using the Census Income Dataset to predict whether an individual's income exceeds $50K/yr based on census data.
 
-The dataset can be found here: https://archive.ics.uci.edu/ml/datasets/adult
+The Dataset can be found here: https://archive.ics.uci.edu/ml/datasets/adult
 
+The Notepad can be found here: https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
 
 ## Steps
 In this Notepad, we'll perform:
+
 - Feature Exploration (Uni and Bi-variate)
 - Feature Imputation
 - Feature Selection
 - Feature Encoding
 - Feature Ranking
+
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/univariate.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/missing.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate2.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate3.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/correlation.png)
+
 - Machine Learning Training and Random Search of Hyperparameters over:
   - KNN
   - Logistic Regression
@@ -23,7 +33,8 @@ In this Notepad, we'll perform:
   - Linear SVC
   - Decision Tree
   - Gradient Boosted Trees
-  
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/results.png)
+ 
 ## Setup
 This Notepad has been designed to be run on top of the Jupyter Tensorflow Docker instance found in the link below: 
 - https://github.com/jupyter/docker-stacks/tree/master/tensorflow-notebook
