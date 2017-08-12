@@ -33,6 +33,8 @@ In this Notepad, we'll perform:
   - Linear SVC
   - Decision Tree
   - Gradient Boosted Trees
+
+## Results
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/results.png)
  
 ## Setup
