@@ -50,7 +50,7 @@ Upon running the command, docker will automatically pull the images it needs and
 
 Give it a minute or so for Jupyter to start, and head to the following URL: http://localhost:8888
 
-You should now have both Jupyter and Splunk running. If after a minute you can't reach the URLs, check that the containers are running correctly and the network has been created by typing:
+You should now have Jupyter running. If after a minute you can't reach the URL, check that the containers are running correctly and the network has been created by typing:
 
 ```shell
 ### Check the User Defined network has been created and containers are running
