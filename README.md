@@ -16,14 +16,6 @@ In this Notepad, we'll perform:
 - Feature Selection
 - Feature Encoding
 - Feature Ranking
-
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/univariate.png)
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/missing.png)
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate.png)
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate2.png)
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate3.png)
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/correlation.png)
-
 - Machine Learning Training and Random Search of Hyperparameters over:
   - KNN
   - Logistic Regression
@@ -33,9 +25,6 @@ In this Notepad, we'll perform:
   - Linear SVC
   - Decision Tree
   - Gradient Boosted Trees
-
-## Results
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/results.png)
  
 ## Setup
 This Notepad has been designed to be run on top of the Jupyter Tensorflow Docker instance found in the link below: 
@@ -70,7 +59,7 @@ docker ps -a
 ## Loading the Walkthrough Notebook
 It's now time to download the Notebook...!
 
-
+https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
 ...go back to http://localhost:8888, load your Notebook into Jupyter and run it. That's it!
 
 
@@ -87,6 +76,17 @@ docker stop jupyter
 # Remove Jupyter Docker Container
 docker rm jupyter
 ```
+
+## Results
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/results.png)
+
+## Some Screenshots
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/univariate.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/missing.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate2.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate3.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/correlation.png)
 
 ## About Me
 https://www.linkedin.com/in/danielmartinezformoso/
