@@ -51,7 +51,7 @@ You should now have Jupyter running. If after a minute you can't reach the URL, 
 ### Check the User Defined network has been created and containers are running
 docker ps -a
 ```
-## Loading the Walkthrough Notebook
+## Loading the Notebook
 It's now time to download the Notebook...!
 
 Download it from this link:
