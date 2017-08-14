@@ -2,7 +2,7 @@
 Data Science Notebook on a Classification Task
 
 ## Objective
-In the Jupyter Notepad included in this page, we will using the Census Income Dataset to predict whether an individual's income exceeds $50K/yr based on census data.
+In the Jupyter Notebook included in this page, we will using the Census Income Dataset to predict whether an individual's income exceeds $50K/yr based on census data.
 
 The Dataset can be found here: https://archive.ics.uci.edu/ml/datasets/adult
 
