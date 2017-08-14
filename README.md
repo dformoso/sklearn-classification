@@ -48,7 +48,7 @@ Give it a minute or so for Jupyter to start, and head to the following URL: http
 You should now have Jupyter running. If after a minute you can't reach the URL, check that the containers are running correctly and the network has been created by typing:
 
 ```shell
-### Check the User Defined network has been created and containers are running
+### Check the containers are running
 docker ps -a
 ```
 ## Loading the Notebook
