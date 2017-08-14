@@ -52,8 +52,6 @@ You should now have Jupyter running. If after a minute you can't reach the URL, 
 docker ps -a
 ```
 ## Loading the Notebook
-It's now time to download the Notebook...!
-
 Download it from this link:
 - https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
 
