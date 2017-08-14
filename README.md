@@ -9,7 +9,7 @@ The Dataset can be found here: https://archive.ics.uci.edu/ml/datasets/adult
 The Notebook can be found here: https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
 
 ## Steps
-In this Notepad, we'll perform:
+In this Notebook, we'll perform:
 
 - Feature Exploration (Uni and Bi-variate)
 - Feature Imputation
@@ -22,7 +22,7 @@ In this Notepad, we'll perform:
 - ROC Curve
  
 ## Setup
-This Notepad has been designed to be run on top of the Jupyter Tensorflow Docker instance found in the link below: 
+This Notebook has been designed to be run on top of the Jupyter Tensorflow Docker instance found in the link below: 
 - https://github.com/jupyter/docker-stacks/tree/master/tensorflow-notebook
 
 If you haven't downloaded Docker at this point, please visit: 
@@ -87,13 +87,13 @@ ROC Curve
 
 ## Screenshots
 
-### Distribution Analysis
+### Feature Distribution Analysis
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/distribution.png)
 
-### Cleaning
+### Feature Cleaning
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/cleaning.png)
 
-### Missing Values
+### Missing Values is Features
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/missing.png)
 
 ### Bivariate Exploration
@@ -109,10 +109,10 @@ ROC Curve
 ### Feature PCA
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/pca.png)
 
-### Results 
+### Results from Machine Learning Algorithms
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/results.png)
 
-### ROCs
+### ROC for each Algorithm
 
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/analysis.png)
 
