@@ -93,13 +93,10 @@ ROC Curve
 ### Cleaning
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/cleaning.png)
 
-### Analysis
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/analysis.png)
-
 ### Missing Values
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/missing.png)
 
-### Bivariate exploration
+### Bivariate Exploration
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate1.png)
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate2.png)
 
@@ -114,6 +111,10 @@ ROC Curve
 
 ### Results 
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/results.png)
+
+### ROCs
+
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/analysis.png)
 
 ## About Me
 https://www.linkedin.com/in/danielmartinezformoso/
