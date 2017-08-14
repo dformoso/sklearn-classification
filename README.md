@@ -6,7 +6,7 @@ In the Jupyter Notepad included in this page, we will using the Census Income Da
 
 The Dataset can be found here: https://archive.ics.uci.edu/ml/datasets/adult
 
-The Notepad can be found here: https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
+The Notebook can be found here: https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
 
 ## Steps
 In this Notepad, we'll perform:
