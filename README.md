@@ -16,15 +16,10 @@ In this Notepad, we'll perform:
 - Feature Selection
 - Feature Encoding
 - Feature Ranking
-- Machine Learning Training and Random Search of Hyperparameters over:
-  - KNN
-  - Logistic Regression
-  - Random Forest
-  - Naive Bayes
-  - Stochastic Gradient Decent
-  - Linear SVC
-  - Decision Tree
-  - Gradient Boosted Trees
+- Machine Learning Training 
+- Random Search
+- Accuracy, Precision, Recall, and f1 calculations
+- ROC Curve
  
 ## Setup
 This Notepad has been designed to be run on top of the Jupyter Tensorflow Docker instance found in the link below: 
@@ -80,16 +75,45 @@ docker stop jupyter
 docker rm jupyter
 ```
 
-## Results
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/results.png)
+Feature Exploration (Uni and Bi-variate)
+Feature Imputation
+Feature Selection
+Feature Encoding
+Feature Ranking
+Machine Learning Training 
+Random Search
+Accuracy, Precision, Recall, and f1 calculations
+ROC Curve
 
-## Some Screenshots
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/univariate.png)
+## Screenshots
+
+### Distribution Analysis
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/distribution.png)
+
+### Cleaning
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/cleaning.png)
+
+### Analysis
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/analysis.png)
+
+### Missing Values
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/missing.png)
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate.png)
+
+### Bivariate exploration
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate1.png)
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate2.png)
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate3.png)
+
+### Feature Correlation
 ![alt text](https://github.com/dformoso/sklearn-classification/blob/master/correlation.png)
+
+### Feature Importance
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/importance.png)
+
+### Feature PCA
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/pca.png)
+
+### Results 
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/results.png)
 
 ## About Me
 https://www.linkedin.com/in/danielmartinezformoso/
