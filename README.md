@@ -16,7 +16,7 @@ In this Notebook, we'll perform:
 - Feature Selection
 - Feature Encoding
 - Feature Ranking
-- Machine Learning Training 
+- Machine Learning with sklearn and Tensorflow 
 - Random Search
 - Accuracy, Precision, Recall, and f1 calculations
 - ROC Curve
