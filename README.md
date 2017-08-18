@@ -8,6 +8,10 @@ The Dataset can be found here: https://archive.ics.uci.edu/ml/datasets/adult
 
 The Notebook can be found here: https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
 
+## Companion Mindmap/Cheatsheet
+This Jupyter Notepad has a companion Mindmap/Cheatsheet that lists most of the Data Science steps that can be found at the following link:
+- https://github.com/dformoso/machine-learning-mindmap
+
 ## Steps
 In this Notebook, we'll perform:
 
