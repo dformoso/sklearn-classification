@@ -4,9 +4,11 @@ Data Science Notebook on a Classification Task
 ## Objective
 In the Jupyter Notebook included in this page, we will using the Census Income Dataset to predict whether an individual's income exceeds $50K/yr based on census data.
 
-The Dataset can be found here: https://archive.ics.uci.edu/ml/datasets/adult
+The Dataset can be found here: 
+- https://archive.ics.uci.edu/ml/datasets/adult
 
-The Notebook can be found here: https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
+The Notebook can be found here: 
+- https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
 
 ## Companion Mindmap/Cheatsheet
 This Jupyter Notepad has a companion Mindmap/Cheatsheet that lists most of the Data Science steps that can be found at the following link:
@@ -30,7 +32,7 @@ This Notebook has been designed to be run on top of the Jupyter Tensorflow Docke
 - https://github.com/jupyter/docker-stacks/tree/master/tensorflow-notebook
 
 If you haven't downloaded Docker at this point, please visit: 
-https://www.docker.com/get-docker
+- https://www.docker.com/get-docker
 
 Then, open a shell or terminal session and copy/paste the following:
 
