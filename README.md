@@ -7,7 +7,7 @@ In the Jupyter Notebook included in this page, we will using the Census Income D
 The Dataset can be found here:
 - https://archive.ics.uci.edu/ml/datasets/adult
 
-The Notebook can be found here:
+The Notebook can be found here: 
 - https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset.ipynb
 
 ## Companion Mindmap/Cheatsheet
