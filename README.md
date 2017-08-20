@@ -4,11 +4,11 @@ Data Science Notebook on a Classification Task
 ## Objective
 In the Jupyter Notebook included in this page, we will using the Census Income Dataset to predict whether an individual's income exceeds $50K/yr based on census data.
 
-The Dataset can be found here: 
+The Dataset can be found here:
 - https://archive.ics.uci.edu/ml/datasets/adult
 
-The Notebook can be found here: 
-- https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset%20-%20v2.ipynb
+The Notebook can be found here:
+- https://github.com/dformoso/sklearn-classification/blob/master/Data%20Science%20Workbook%20-%20Census%20Income%20Dataset.ipynb
 
 ## Companion Mindmap/Cheatsheet
 This Jupyter Notepad has a companion Mindmap/Cheatsheet that lists most of the Data Science steps that can be found at the following link:
@@ -22,16 +22,16 @@ In this Notebook, we'll perform:
 - Feature Selection
 - Feature Encoding
 - Feature Ranking
-- Machine Learning with sklearn and Tensorflow 
+- Machine Learning with sklearn and Tensorflow
 - Random Search
 - Accuracy, Precision, Recall, and f1 calculations
 - ROC Curve
- 
+
 ## Setup
-This Notebook has been designed to be run on top of the Jupyter Tensorflow Docker instance found in the link below: 
+This Notebook has been designed to be run on top of the Jupyter Tensorflow Docker instance found in the link below:
 - https://github.com/jupyter/docker-stacks/tree/master/tensorflow-notebook
 
-If you haven't downloaded Docker at this point, please visit: 
+If you haven't downloaded Docker at this point, please visit:
 - https://www.docker.com/get-docker
 
 Then, open a shell or terminal session and copy/paste the following:
@@ -84,7 +84,7 @@ Feature Imputation
 Feature Selection
 Feature Encoding
 Feature Ranking
-Machine Learning Training 
+Machine Learning Training
 Random Search
 Accuracy, Precision, Recall, and f1 calculations
 ROC Curve
@@ -92,34 +92,40 @@ ROC Curve
 ## Screenshots
 
 ### Feature Distribution Analysis
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/distribution.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/distribution.png)
 
 ### Feature Cleaning
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/cleaning.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/cleaning.png)
 
 ### Missing Values is Features
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/missing.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/missing.png)
 
 ### Bivariate Exploration
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate1.png)
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/bivariate2.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/bivariate1.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/bivariate2.png)
 
 ### Feature Correlation
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/correlation.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/correlation.png)
 
 ### Feature Importance
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/importance.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/importance.png)
 
 ### Feature PCA
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/pca.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/pca.png)
 
 ### Results from Machine Learning Algorithms
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/results.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/results.png)
 
 ### ROC for each Algorithm
 
-![alt text](https://github.com/dformoso/sklearn-classification/blob/master/analysis.png)
+![alt text](https://github.com/dformoso/sklearn-classification/blob/master/images/analysis.png)
 
 ## About Me
-https://www.linkedin.com/in/danielmartinezformoso/
+Twitter:
+- https://twitter.com/danielmartinezf
 
+Linkedin:
+- https://www.linkedin.com/in/danielmartinezformoso/
+
+Email:
+- daniel.martinez.formoso@gmail.com
